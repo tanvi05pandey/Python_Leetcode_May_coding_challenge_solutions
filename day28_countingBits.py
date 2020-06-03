@@ -10,7 +10,6 @@
 # Input: 5
 # Output: [0,1,1,2,1,2]
 
-# see the explanation of this solution at https://www.youtube.com/watch?v=awxaRgUB4Kw
 def countBits(num):
     arr = [None]*(num+1)
     arr[0] = 0
