@@ -63,10 +63,6 @@
 # 3. Find total sum of the array (sum)
 # 4. Now, if sum == min return max
 # 5. Otherwise, return maximum ( max, sum - min )
-#
-# IF YOU HAVE ANY DOUBTS, FEEL FREE TO ASK
-# IF YOU UNDERSTAND, DON'T FORGET TO UPVOTE.
-#
 # Time :- O(N)
 # Space :- O(1)
 
